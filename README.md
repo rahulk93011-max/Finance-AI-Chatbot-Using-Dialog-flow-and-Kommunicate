@@ -100,22 +100,16 @@ Financial Knowledge Base
    │
    ▼
 Response Generation
-## 📷 Project Screenshots
+png)
+https://raw.githubusercontent.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/main/Shot%201.png
 
-### Shot 1
-![Shot 1](https://raw.githubusercontent.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/main/Shot%201.png)
+https://raw.githubusercontent.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/main/Shot%202.png
 
-### Shot 2
-![Shot 2](https://raw.githubusercontent.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/main/Shot%202.png)
+https://raw.githubusercontent.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/main/Shot%203.png
 
-### Shot 3
-![Shot 3](https://raw.githubusercontent.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/main/Shot%203.png)
+https://raw.githubusercontent.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/main/Shot%204.png
 
-### Shot 4
-![Shot 4](https://raw.githubusercontent.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/main/Shot%204.png)
-
-### Shot 5
-![Shot 5](https://raw.githubusercontent.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/main/Shot%205.png)
+https://raw.githubusercontent.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/main/Shot%205.png
    │
    ▼
 User

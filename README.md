@@ -79,25 +79,14 @@ The system recognizes user queries and provides relevant financial explanations,
 | Budget_Planner | Budget planning assistance |
 | Tax_Saving_Advisor | Tax-saving guidance |
 
----
-Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/
-│
-├── README.md
-│
-├── images/
-│   ├── Shot1.png
-│   ├── Shot2.png
-│   ├── Shot3.png
-│   ├── Shot4.png
-│   └── Shot5.png
 ## 🏗️ System Architecture
 
-![Kommunicate Demo](images/Shot1.png)
+![Kommunicate Demo](Shot%201.png)
 
-![Dialogflow Agent](images/Shot2.png)
+![Dialogflow Agent](Shot%202.png)
 
-![Intent Configuration](images/Shot3.png)
+![Intent Configuration](Shot%203.png)
 
-![ROI Intent](images/Shot4.png)
+![ROI Intent](Shot%204.png)
 
-![ROI Response](images/Shot5.png)
+![ROI Response](Shot%205.png)

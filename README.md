@@ -80,8 +80,16 @@ The system recognizes user queries and provides relevant financial explanations,
 | Tax_Saving_Advisor | Tax-saving guidance |
 
 ---
-
-## 🏗️ System Architecture
+Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/
+│
+├── README.md
+│
+├── images/
+│   ├── Shot1.png
+│   ├── Shot2.png
+│   ├── Shot3.png
+│   ├── Shot4.png
+│   └── Shot5.png
 ## 🏗️ System Architecture
 
 ![Kommunicate Demo](images/Shot1.png)

@@ -82,19 +82,12 @@ The system recognizes user queries and provides relevant financial explanations,
 ---
 
 ## 🏗️ System Architecture
-## Screenshots
+![Kommunicate Demo](https://raw.githubusercontent.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/main/images/Shot1.png)
 
-### 1. Kommunicate Chatbot Demo
-![Kommunicate Demo](https://github.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/blob/main/images/Shot1.png)
+![Dialogflow Agent](https://raw.githubusercontent.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/main/images/Shot2.png)
 
-### 2. Dialogflow Agent Setup
-![Dialogflow Agent](https://github.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/blob/main/images/Shot2.png)
+![Intent Configuration](https://raw.githubusercontent.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/main/images/Shot3.png)
 
-### 3. Intent Configuration
-![Intent Configuration](https://github.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/blob/main/images/Shot3.png)
+![ROI Intent](https://raw.githubusercontent.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/main/images/Shot4.png)
 
-### 4. ROI Intent Training Phrases
-![ROI Intent](https://github.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/blob/main/images/Shot4.png)
-
-### 5. ROI Response Setup
-![ROI Response](https://github.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/blob/main/images/Shot5.png)
+![ROI Response](https://raw.githubusercontent.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/main/images/Shot5.png)

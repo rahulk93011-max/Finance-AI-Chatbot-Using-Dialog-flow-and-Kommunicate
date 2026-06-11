@@ -82,25 +82,6 @@ The system recognizes user queries and provides relevant financial explanations,
 ---
 
 ## 🏗️ System Architecture
-
-```text
-User
-   │
-   ▼
-Kommunicate Chat Widget
-   │
-   ▼
-Dialogflow ES
-   │
-   ▼
-Intent Matching
-   │
-   ▼
-Financial Knowledge Base
-   │
-   ▼
-Response Generation
-png)
 ## Screenshots
 
 ### 1. Kommunicate Chatbot Demo

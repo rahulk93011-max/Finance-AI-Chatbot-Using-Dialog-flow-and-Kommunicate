@@ -82,12 +82,14 @@ The system recognizes user queries and provides relevant financial explanations,
 ---
 
 ## 🏗️ System Architecture
-![Kommunicate Demo](https://raw.githubusercontent.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/main/images/Shot1.png)
+## 🏗️ System Architecture
 
-![Dialogflow Agent](https://raw.githubusercontent.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/main/images/Shot2.png)
+![Kommunicate Demo](images/Shot1.png)
 
-![Intent Configuration](https://raw.githubusercontent.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/main/images/Shot3.png)
+![Dialogflow Agent](images/Shot2.png)
 
-![ROI Intent](https://raw.githubusercontent.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/main/images/Shot4.png)
+![Intent Configuration](images/Shot3.png)
 
-![ROI Response](https://raw.githubusercontent.com/rahulk93011-max/Finance-AI-Chatbot-Using-Dialog-flow-and-Kommunicate/main/images/Shot5.png)
+![ROI Intent](images/Shot4.png)
+
+![ROI Response](images/Shot5.png)
